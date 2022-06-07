@@ -6,3 +6,6 @@
 - [x] [3. Pascal's Triangle ](https://leetcode.com/problems/pascals-triangle/)
 - [x] [4. Sort Colors ](https://leetcode.com/problems/sort-colors/)
 - [x] [5. Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [6. Next Permutation ](https://leetcode.com/problems/next-permutation/)
+
+## DAY 2
