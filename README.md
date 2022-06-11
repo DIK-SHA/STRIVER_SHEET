@@ -18,3 +18,7 @@
 
 ## DAY 3
 - [x] [13. Search a 2D Matrix ](https://leetcode.com/problems/search-a-2d-matrix/)
+- [x] [14. Pow(x, n) ](https://leetcode.com/problems/powx-n/)
+- [x] [15. Majority Element ](https://leetcode.com/problems/majority-element/)
+- [x] [12.  ](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [12.  ](https://leetcode.com/problems/merge-sorted-array/)
