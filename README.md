@@ -13,12 +13,20 @@
 - [x] [8. Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)
 - [x] [9. Merge Intervals ](https://leetcode.com/problems/merge-intervals/)
 - [x] [10. Find the Duplicate Number ](https://leetcode.com/problems/find-the-duplicate-number/)
-- [x] [11. Search a 2D Matrix ](https://leetcode.com/problems/search-a-2d-matrix/)
-- [x] [12.  ](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [11.  ]()
+- [x] [12. Count Inversions ](https://www.codingninjas.com/codestudio/problems/count-inversions_615?leftPanelTab=0)
 
 ## DAY 3
 - [x] [13. Search a 2D Matrix ](https://leetcode.com/problems/search-a-2d-matrix/)
 - [x] [14. Pow(x, n) ](https://leetcode.com/problems/powx-n/)
-- [x] [15. Majority Element ](https://leetcode.com/problems/majority-element/)
-- [x] [12.  ](https://leetcode.com/problems/merge-sorted-array/)
-- [x] [12.  ](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [15. Majority Element (N/2) ](https://leetcode.com/problems/majority-element/)
+- [x] [16. Majority Element (N/3) ](https://leetcode.com/problems/majority-element-ii/)
+- [x] [17. ]()
+- [x] [17. ]()
+
+## DAY 4
+<!-- - [x] [17. ]()
+- [x] [17. ]()
+- [x] [17. ]()
+- [x] [17. ]()
+- [x] [17. ]() -->
