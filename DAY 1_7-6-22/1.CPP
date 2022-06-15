@@ -5,7 +5,7 @@ public:
         int row=matrix.size(), col=matrix[0].size();
         for(int i=0;i<row;i++){
             if(matrix[i][0]==0)
-                col0=0;
+                col0=0; //PEHLE COLOUMN K LIYE
             for(int j=1;j<col;j++){
                 if(matrix[i][j]==0){
                     matrix[i][0]=0;
@@ -24,3 +24,13 @@ public:
         }
     }
 };
+// test case for dry run
+// 0 1 2 0
+// 3 4 5 2
+// 1 3 1 5
+
+// OUTPUT:===
+
+// 0 0 0 0
+// 0 4 5 0
+// 0 3 1 0

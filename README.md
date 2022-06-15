@@ -22,7 +22,7 @@
 - [x] [15. Majority Element (N/2) ](https://leetcode.com/problems/majority-element/)
 - [x] [16. Majority Element (N/3) ](https://leetcode.com/problems/majority-element-ii/)
 - [x] [17. ]()
-- [x] [17. ]()
+- [x] [18.  Reverse Pairs ](https://leetcode.com/problems/reverse-pairs/)
 
 ## DAY 4
 <!-- - [x] [17. ]()

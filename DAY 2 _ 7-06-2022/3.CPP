@@ -1,3 +1,4 @@
+//THIS IS PASCALS ALGORITHM
     vector<vector<int>> generate(int n) {
         vector<vector<int>> v;
         vector<int> x(1,1);
