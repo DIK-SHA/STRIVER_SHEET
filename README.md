@@ -13,7 +13,7 @@
 - [x] [8. Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)
 - [x] [9. Merge Intervals ](https://leetcode.com/problems/merge-intervals/)
 - [x] [10. Find the Duplicate Number ](https://leetcode.com/problems/find-the-duplicate-number/)
-- [x] [11.  ]()
+- [ ] [11.  ]()
 - [x] [12. Count Inversions ](https://www.codingninjas.com/codestudio/problems/count-inversions_615?leftPanelTab=0)
 
 ## DAY 3
@@ -21,12 +21,12 @@
 - [x] [14. Pow(x, n) ](https://leetcode.com/problems/powx-n/)
 - [x] [15. Majority Element (N/2) ](https://leetcode.com/problems/majority-element/)
 - [x] [16. Majority Element (N/3) ](https://leetcode.com/problems/majority-element-ii/)
-- [x] [17. ]()
+- [ ] [17. ]()
 - [x] [18.  Reverse Pairs ](https://leetcode.com/problems/reverse-pairs/)
 
 ## DAY 4
+- [x] [19. Two Sum ](https://leetcode.com/problems/two-sum/)
 <!-- - [x] [17. ]()
-- [x] [17. ]()
 - [x] [17. ]()
 - [x] [17. ]()
 - [x] [17. ]() -->
