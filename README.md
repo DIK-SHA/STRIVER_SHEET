@@ -27,6 +27,15 @@
 ## DAY 4
 - [x] [19. Two Sum ](https://leetcode.com/problems/two-sum/)
 - [x] [20. 4Sum ](https://leetcode.com/problems/4sum/)
-- [x] [17. ]()
-- [x] [17. ]()
-- [x] [17. ]() -->
+<!-- - [x] [21. ]()
+- [x] [22. ]()
+- [x] [23. ]() 
+- [x] [24. ]() -->
+
+## DAY 5
+- [x] [25. Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/)
+<!-- - [x] [26. ]() 
+- [x] [27. ]()
+- [x] [28. ]() 
+- [x] [29. ]()
+- [x] [30. ]()  -->
