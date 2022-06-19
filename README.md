@@ -27,7 +27,7 @@
 ## DAY 4
 - [x] [19. Two Sum ](https://leetcode.com/problems/two-sum/)
 - [x] [20. 4Sum ](https://leetcode.com/problems/4sum/)
-<!-- - [x] [21. ]()
+- [x] [21. Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [x] [22. ]()
 - [x] [23. ]() 
 - [x] [24. ]() -->
