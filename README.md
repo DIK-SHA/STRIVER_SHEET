@@ -29,7 +29,7 @@
 - [x] [20. 4Sum ](https://leetcode.com/problems/4sum/)
 - [x] [21. Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [x] [22. Largest subarray with 0 sum ](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
-- [x] [23. ]() 
+- [x] [23. Count Subarrays with Given XOR ](https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) 
 - [x] [24. ]() -->
 
 ## DAY 5
