@@ -30,12 +30,12 @@
 - [x] [21. Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [x] [22. Largest subarray with 0 sum ](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 - [x] [23. Count Subarrays with Given XOR ](https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) 
-- [x] [24. ]() -->
+- [x] [24. Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ## DAY 5
 - [x] [25. Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/)
-<!-- - [x] [26. ]() 
-- [x] [27. ]()
+- [x] [26. Middle of the Linked List ](https://leetcode.com/problems/middle-of-the-linked-list/) 
+<!-- - [x] [27. ]() 
 - [x] [28. ]() 
 - [x] [29. ]()
 - [x] [30. ]()  -->
