@@ -35,7 +35,7 @@
 ## DAY 5
 - [x] [25. Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/)
 - [x] [26. Middle of the Linked List ](https://leetcode.com/problems/middle-of-the-linked-list/) 
-<!-- - [x] [27. ]() 
-- [x] [28. ]() 
+- [x] [27. Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/) 
+- [x] [28.  Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
 - [x] [29. ]()
-- [x] [30. ]()  -->
+- [x] [30. ]() 
