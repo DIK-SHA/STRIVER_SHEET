@@ -39,3 +39,11 @@
 - [x] [28.  Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
 - [x] [29. ]()
 - [x] [30. Delete Node in a Linked List ](https://leetcode.com/problems/delete-node-in-a-linked-list/) 
+
+## DAY 6
+- [x] [31. Intersection of Two Linked Lists ](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [x] [32. Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle/)
+<!-- - [x] [29. ]()
+- [x] [29. ]()
+- [x] [29. ]()
+- [x] [29. ]()  -->
