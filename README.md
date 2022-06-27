@@ -44,6 +44,6 @@
 - [x] [31. Intersection of Two Linked Lists ](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [x] [32. Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [33. ]()
-- [x] [34. ]()
+- [x] [34. Palindrome Linked List ](https://leetcode.com/problems/palindrome-linked-list/)
 - [x] [35. Linked List Cycle II ](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [x] [36. ]()
