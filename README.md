@@ -47,3 +47,7 @@
 - [x] [34. Palindrome Linked List ](https://leetcode.com/problems/palindrome-linked-list/)
 - [x] [35. Linked List Cycle II ](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [x] [36. ]()
+
+## DAY 9
+- [x] [1. Subset Sums ](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)
+- [x] [33. ]()
