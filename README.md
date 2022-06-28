@@ -50,4 +50,4 @@
 
 ## DAY 9
 - [x] [1. Subset Sums ](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)
-- [x] [33. ]()
+<!-- - [x] [33. ]() -->
