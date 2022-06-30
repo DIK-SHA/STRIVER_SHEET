@@ -50,8 +50,11 @@
 
 ## DAY 7
 - [x] [37.  Rotate List ](https://leetcode.com/problems/rotate-list/)
-<!-- - [x] [36. ]()
-- [x] [36. ]() -->
+- [x] [38. ]()
+- [x] [39. ]()
+- [x] [40. ]()
+- [x] [41. ]()
+- [x] [42. Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ## DAY 9
 - [x] [1. Subset Sums ](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)
