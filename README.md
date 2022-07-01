@@ -51,7 +51,7 @@
 ## DAY 7
 - [x] [37.  Rotate List ](https://leetcode.com/problems/rotate-list/)
 - [x] [38. ]()
-- [x] [39. ]()
+- [x] [39. 3Sum ](https://leetcode.com/problems/3sum/)
 - [x] [40. ]()
 - [x] [41. ]()
 - [x] [42. Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
