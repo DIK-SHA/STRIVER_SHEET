@@ -52,9 +52,9 @@
 - [x] [37.  Rotate List ](https://leetcode.com/problems/rotate-list/)
 - [x] [38. ]()
 - [x] [39. 3Sum ](https://leetcode.com/problems/3sum/)
-- [x] [40. ]()
-- [x] [41. ]()
-- [x] [42. Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] [40. Trapping Rain Water ](https://leetcode.com/problems/trapping-rain-water/)
+- [x] [41. Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] [42. Max Consecutive Ones ](https://leetcode.com/problems/max-consecutive-ones/)
 
 ## DAY 9
 - [x] [1. Subset Sums ](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)
