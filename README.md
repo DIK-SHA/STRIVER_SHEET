@@ -50,7 +50,7 @@
 
 ## DAY 7
 - [x] [37.  Rotate List ](https://leetcode.com/problems/rotate-list/)
-- [x] [38. ]()
+- [x] [38. Clone a Linked List with random and next pointer](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/)
 - [x] [39. 3Sum ](https://leetcode.com/problems/3sum/)
 - [x] [40. Trapping Rain Water ](https://leetcode.com/problems/trapping-rain-water/)
 - [x] [41. Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
